@@ -1,8 +1,8 @@
 # Liz
-This simple program finds what your name is ACTUALLY short for. Dan, I'm sorry,
-I know this may be hard for you to hear but your mother and I actually named you
-Dandruff. Or perhaps Dandelion. Or Dancer. Or Bandana. The possibilities
-are numerous. 
+This simple program can be used to figure out what your name is ACTUALLY short for.
+Dan, I'm sorry, I know this may be hard for you to hear but your mother and I
+actually named you Dandruff. Or perhaps Dandelion. Or Dancer. Or Bandana. The
+possibilities are numerous!
 
 ## Setup
 This program requires the Pronouncing library, which you can install with
